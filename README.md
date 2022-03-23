@@ -2,13 +2,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitch" width="26px" src="https://camo.githubusercontent.com/80fd45e5ca8aa2f6f1ef116418f9927f297a1d11b2524349d5cc3d4b31f90623/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f32782f7477697463682e706e67.png" style="padding-right:10px;" />][twitch]
-[<img align="left" alt="Instagram" width="26px" src="https://camo.githubusercontent.com/7d7411f39f33234c090efbdc7a62f4208ace9aea7926f470d4b8c5678a90d8df/68747470733a2f2f692e6962622e636f2f747a38736b484d2f69636f6e73382d696e7374616772616d2d34382e706e67.png" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Youtube" width="26px" src="https://camo.githubusercontent.com/7ef51d7837cebee093e9fb88fb37ab2c03de5f7c87e8f3390cb960b1ec629d01/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f796f75747562652d706c61792e706e67.png" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="Discord" width="26px" src="https://camo.githubusercontent.com/3960ea508a973356d815c38450e7ebc4063db9cb30bf2050f916bac088a5fd0b/68747470733a2f2f692e6962622e636f2f59744e684231562f69636f6e73382d646973636f72642d6e65772d6c6f676f2d34382e706e67.png" style="padding-right:10px;" />][discord]
-
-
-
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSZiD5_Vqe0rZl0IsaxU3BQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCSZiD5_Vqe0rZl0IsaxU3BQ#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/murat-bilgin-26068a235/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/murat-bilgin-26068a235/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/snopleex#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/snopleex#gh-dark-mode-only)
 
 ### Languages and Tools:
 
