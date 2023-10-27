@@ -1,4 +1,4 @@
-# Hi there, I'm Murat - aka [Snoplex] 👋 
+# Hi there, I'm Murat Bilgin 👋 
 
 ### Connect with me:
 
